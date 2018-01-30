@@ -1,0 +1,30 @@
+#navbar {
+    overflow: hidden;
+    background-color: #ffffff;
+    position: fixed;
+    top: 0; 
+    width: auto;
+    margin: auto 5px;
+    padding: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+}
+button {
+    background-color: #ffffff;
+    border: gray;
+    border-width: 1px;
+    color: gray;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    float: right;
+}
+#box1 {
+    float: left;
+    font-weight: bold;
+    background-color: #4aaaa5;
+    width: 100px;
+    padding: 10px;
+}
